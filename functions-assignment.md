@@ -16,7 +16,7 @@ return string + "s"
 }
 
 const myWord = simplePluralize("dog")
-console.log(myWord) // should output "dog"
+console.log(myWord) // should output "dogs"
 
 ```
 
