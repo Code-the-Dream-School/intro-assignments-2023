@@ -1,7 +1,8 @@
 ## JavaScript Loop Exercises - Solutions
 
 ### Exercise 1
-```javascript
+```
+javascript
 function happyBirthday(n) {
   for (let i = 0; i < n; i++) {
     console.log("Happy Birthday!");
