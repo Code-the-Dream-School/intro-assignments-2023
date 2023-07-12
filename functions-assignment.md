@@ -1,4 +1,25 @@
-## JavaScript Function Exercises
+# JavaScript Function Exercises
+
+
+## Testing  your functions
+To invoke/call the function for debugging, simply console.log("testing out my function for Q#: ", functionName(anyInput)) and click the green Run button at the top of the screen.
+Also in the real world you will also do something more like this to see the results of a function.
+```
+// this funciton just takes a string and then returns the same string. Feel free to use normal function writing or es6 here is an example of the same function written both ways. 
+
+function simplePluralize(string) {
+return string + "s"
+}
+
+const simplePluralize = (string) => {
+return string + "s"
+}
+
+const myWord = simplePluralize("dog")
+console.log(myWord) // should output "dog"
+
+```
+
 
 ### Exercise 1
 Write a function `returnString(inputString)` that takes a string as a parameter and returns that string. 
