@@ -1,3 +1,6 @@
+Here's a link to the lesson 1 assignment MA has been working on... she's not far with it, but is this the right/a good idea? [MA's personal replit reworking lesson 1 assignment](https://replit.com/@Mary-AliceAlice/Javascript-Basics-Assignment-MA-Oct-2023-testing)
+
+
 Write a function that returns the sum of two numbers.
 THIS IS TRASH I WAS LOOKIUNG AT WRONG ASSIGNMENT/TOM
 const add = (a, b) => {
